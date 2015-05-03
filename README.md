@@ -1,6 +1,6 @@
 # KnockKnock
 
-This is a repository for the <b>KnockKnock!!(IIITD Event Notifier)</b>  app built as course project for Programmimg Cloud 
+This is a repository for <b>KnockKnock!!(IIITD Event Notifier)</b>an app built as course project for Programmimg Cloud 
 Services for Mobile Application (Winter 2015)</br> </br>
 <b>Motivation </b> 
 </br>
