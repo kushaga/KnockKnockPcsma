@@ -1,16 +1,14 @@
 # KnockKnockPcsma
 
 This is a repository for the <b>KnockKnock!!(IIITD Event Notifier)</b>  app built as course project for Programmimg Cloud 
-Services for Mobile Application (Winter 2015)
-</br>
-<b>Motivation </b> </br>
+Services for Mobile Application (Winter 2015)</br>
+<b>Motivation </b> 
 Many of the event happenings and updates usually come in the form of emails. 
 Students are least bordered to check the event details always on their email. 
 So, our application is aimed at sending event details in the form of push notifications to the students based on their 
 current local location at IIITD.
-
 </br>
-There are many events which happen regularly at IIITD. Some of them include:
+There are many events which happen regularly at IIITD. Some of them include
   <li>Events in Odyssey Cultural Fest.</li>
   <li>Events in Esya Tech Fest.</li>
   <li>Foobar Code Classes.</li>
@@ -25,6 +23,7 @@ Push notifications are sent to the student (user) if he/she is around the venue 
  
 The application consists of Client and Server end.
 The client side is coded in android. The server is coded using spring-mvc , and run on a local host Apache tomcat server.
+
 </br>
 <b>TECHNOLOGY STACK </b>
 Android (For client side) 
