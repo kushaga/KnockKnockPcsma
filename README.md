@@ -25,14 +25,14 @@ The application consists of Client and Server end.
 The client side is coded in android. The server is coded using spring-mvc , and run on a local host Apache tomcat server.
 
 </br>
-<b>TECHNOLOGY STACK </b>
-Android (For client side) 
-Retrofit (for sending post/get request’s from the client send) 
-Spring MVC (Framework for developing Rest Api’s at the server side) 
-MySQL (For Database) 
-Jackson (for data marshalling and de-marshalling)
-Java Mail Api (for sending mail’s from the server side)
-Apache Tomcat 
+<b>TECHNOLOGY STACK </b>: <br/>
+  Android (For client side) <br/>
+  Retrofit (for sending post/get request’s from the client send) <br/>
+  Spring MVC (Framework for developing Rest Api’s at the server side) <br/>
+  MySQL (For Database) <br/>
+  Jackson (for data marshalling and de-marshalling)<br/>
+  Java Mail Api (for sending mail’s from the server side)<br/>
+  Apache Tomcat <br/>
 
-</br>
+
 ![alt tag](https://lh6.googleusercontent.com/-Y4SNBvO4UAY/VTp4h-7vunI/AAAAAAAADSc/WAnP84Dhbr4/w346-h577-no/Screenshot_2015-04-24-22-11-00.png)
