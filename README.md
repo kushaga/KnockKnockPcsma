@@ -3,6 +3,7 @@
 This is a repository for the <b>KnockKnock!!(IIITD Event Notifier)</b>  app built as course project for Programmimg Cloud 
 Services for Mobile Application (Winter 2015)</br>
 <b>Motivation </b> 
+</br>
 Many of the event happenings and updates usually come in the form of emails. 
 Students are least bordered to check the event details always on their email. 
 So, our application is aimed at sending event details in the form of push notifications to the students based on their 
