@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="theme1_darker_color">#ff0a463a</color>
+    <color name="theme1_dark_color">#ff1a8868</color>
+    <color name="theme1_primary_color">#1abc9c</color>
+    <color name="theme1_light_color">#ff1bf0cf</color>
+    <color name="turquoise">#1abc9c</color>
+    <color name="emerald">#2ecc71</color>
+    <color name="peter_river">#3498db</color>
+    <color name="amethyst">#9b59b6</color>
+    <color name="wet_asphalt">#34495e</color>
+    <color name="green_sea">#16a085</color>
+    <color name="nephritis">#27ae60</color>
+    <color name="belize_hole">#2980b9</color>
+    <color name="wisteria">#8e44ad</color>
+    <color name="midnight_blue">#2c3e50</color>
+    <color name="sun_flowers">#f1c40f</color>
+    <color name="carrot">#e67e22</color>
+    <color name="alizarin">#e74c3c</color>
+    <color name="clouds">#ecf0f1</color>
+    <color name="concrete">#95a5a6</color>
+    <color name="orange">#f39c12</color>
+    <color name="pumpkin">#d35400</color>
+    <color name="pomegranate">#c0392b</color>
+    <color name="silver">#bdc3c7</color>
+    <color name="asbestos">#7f8c8d</color>
+
+    <integer-array name="custom_theme_1">
+        <item>@color/theme1_darker_color</item>
+        <item>@color/theme1_dark_color</item>
+        <item>@color/theme1_primary_color</item>
+        <item>@color/theme1_light_color</item>
+    </integer-array>
+
+
+    <color name="theme2_darker_color">#008AA1</color>
+    <color name="theme2_dark_color">#FFFF34</color>
+    <color name="theme2_primary_color">#10C6DC</color>
+    <color name="theme2_light_color">#ff6dffff</color>
+
+    <integer-array name="custom_theme_2">
+        <item>@color/theme2_darker_color</item>
+        <item>@color/theme2_dark_color</item>
+        <item>@color/theme2_primary_color</item>
+        <item>@color/theme2_light_color</item>
+    </integer-array>
+
+</resources>
